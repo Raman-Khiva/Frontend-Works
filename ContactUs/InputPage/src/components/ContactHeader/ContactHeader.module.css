@@ -1,0 +1,19 @@
+.contact_section{
+    /* border: 2px solid black; */
+    height: 100%;
+    width: 100%;
+    /* background-color: aqua; */
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+
+.contact_section h1{
+    font-size: 3rem;
+}
+
+.contact_section p{
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: rgb(63, 63, 63);
+}

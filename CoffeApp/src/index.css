@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg_image{
+  background-image: url('./assets/bg.png');
+  height: 100%;
+  width: 100%;
+  
+}
+
+.box-shadow{
+  box-shadow: 0 0 8px rgba(0,0,0,0.4) ;
+}
